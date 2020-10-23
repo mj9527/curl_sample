@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/mjzheng/Documents/mj_git/curl_sample/mycurl/HttpImpl.cpp
+curl/curl.h
+/Users/mjzheng/Documents/mj_git/curl_sample/mycurl/curl/curl.h
+iostream
+-
+sstream
+-
+
